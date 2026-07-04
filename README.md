@@ -21,9 +21,7 @@ I'm passionate about building web applications and continuously learning new tec
 - HTML5
 - CSS3
 - JavaScript
-- React.js
 - Node.js
-- Express.js
 - MongoDB
 - Git & GitHub
 - Python (Learning)
