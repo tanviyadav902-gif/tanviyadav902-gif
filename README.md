@@ -50,5 +50,9 @@
 - GitHub: https://github.com/tanviyadav902-gif
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanviyadav902-gif/tanviyadav902-gif/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
