@@ -2,8 +2,7 @@
 
 ### 🎓 B.Tech 2nd Year Student | 💻 Aspiring Full Stack Developer
 
-I'm passionate about building web applications and continuously learning new technologies. Currently, I'm improving my Python programming skills while strengthening my full-stack development knowledge.
-
+💡 Passionate about Full Stack Development and Python. I enjoy building real-world web applications and continuously improving my problem-solving and development skills.
 ---
 
 ## 🚀 About Me
@@ -36,9 +35,10 @@ A web application to manage income and expenses with a clean and responsive inte
 ### 🍽️ Restaurant Website
 A responsive restaurant website with an attractive modern UI.
 
-### 💄 Beauty Care Website
-A beauty salon website showcasing services with a user-friendly design.
-
+### 💄 Beauty Care Recommendation Website
+- Developed a beauty care website that recommends skincare products based on the user's skin type.
+- Helps users discover suitable beauty products through personalized suggestions.
+- Focused on creating a simple, responsive, and user-friendly interface.
 ---
 
 ## 📫 Connect With Me
