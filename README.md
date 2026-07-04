@@ -42,9 +42,6 @@
 - **Tech Stack:** HTML, CSS, JavaScript, Node.js
 
 ---
-
-## 📈 GitHub Stats
-
 ## 📈 GitHub Stats
 
 <p align="center">
