@@ -45,16 +45,18 @@
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tanviyadav902-gif&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanviyadav902-gif&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanviyadav902-gif&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=tanviyadav902-gif&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanviyadav902-gif&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanviyadav902-gif&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
