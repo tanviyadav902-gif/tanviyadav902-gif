@@ -1,48 +1,68 @@
-# Hi 👋, I'm Tanvi Yadav
+<h1 align="center">Hi 👋, I'm Tanvi Yadav</h1>
 
-### 🎓 B.Tech 2nd Year Student | 💻 Aspiring Full Stack Developer
-
-💡 Passionate about Full Stack Development and Python. I enjoy building real-world web applications and continuously improving my problem-solving and development skills.
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech 2nd Year Student
-- 🌱 Currently learning Python
-- 💻 Interested in Full Stack Web Development
-- 🤝 Looking to collaborate on open-source and web development projects
-- 📚 Always eager to learn new technologies
+<h3 align="center">🎓 B.Tech 2nd Year Student | 💻 Aspiring Full Stack Developer | 🌱 Learning Python</h3>
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-- HTML5
-- CSS3
-- JavaScript
-- Node.js
-- MongoDB
-- Git & GitHub
-- Python (Learning)
+- 🎓 I'm a B.Tech 2nd Year Student.
+- 🌱 Currently learning **Python**.
+- 💻 Passionate about **Full Stack Web Development**.
+- 🚀 I enjoy building real-world web applications.
+- 🤝 Looking to collaborate on web development and open-source projects.
+- 📚 Always learning new technologies and improving my coding skills.
 
 ---
 
-## 📂 Projects
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 💰 Expense Tracker App
-A web application to manage income and expenses with a clean and responsive interface.
+- Developed a web application to manage personal income and expenses.
+- Features an intuitive and responsive user interface.
+- **Tech Stack:** HTML, CSS, JavaScript
 
 ### 🍽️ Restaurant Website
-A responsive restaurant website with an attractive modern UI.
+- Designed and developed a responsive restaurant website.
+- Showcases menu, services, and contact information.
+- **Tech Stack:** HTML, CSS, JavaScript
 
-### 💄 Beauty Care Recommendation Website
-- Developed a beauty care website that recommends skincare products based on the user's skin type.
-- Helps users discover suitable beauty products through personalized suggestions.
-- Focused on creating a simple, responsive, and user-friendly interface.
+### 💄 Beauty Care Product Recommendation Website
+- Developed a website that recommends skincare and beauty products based on the user's skin type.
+- Helps users discover suitable products through personalized recommendations.
+- Designed with a clean, responsive, and user-friendly interface.
+- **Tech Stack:** HTML, CSS, JavaScript, Node.js
+
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tanviyadav902-gif&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanviyadav902-gif&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanviyadav902-gif&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with Me
 
 - GitHub: https://github.com/tanviyadav902-gif
 
-⭐ Thanks for visiting my profile!
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
