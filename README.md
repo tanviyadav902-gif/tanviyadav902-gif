@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Tanvi Yadav
 
-<!--
-**tanviyadav902-gif/tanviyadav902-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech 2nd Year Student | 💻 Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about building web applications and continuously learning new technologies. Currently, I'm improving my Python programming skills while strengthening my full-stack development knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech 2nd Year Student
+- 🌱 Currently learning Python
+- 💻 Interested in Full Stack Web Development
+- 🤝 Looking to collaborate on open-source and web development projects
+- 📚 Always eager to learn new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+- Python (Learning)
+
+---
+
+## 📂 Projects
+
+### 💰 Expense Tracker App
+A web application to manage income and expenses with a clean and responsive interface.
+
+### 🍽️ Restaurant Website
+A responsive restaurant website with an attractive modern UI.
+
+### 💄 Beauty Care Website
+A beauty salon website showcasing services with a user-friendly design.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/tanviyadav902-gif
+
+⭐ Thanks for visiting my profile!
